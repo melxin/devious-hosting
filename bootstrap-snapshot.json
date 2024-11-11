@@ -97,7 +97,7 @@
         "lwjgl-3.3.2-natives-linux.jar": "89f53089a5f8a983db25140a1c94c72fe2a8f56feb6ddb597f55b8329ce5b400",
         "xmlresolver-5.2.2.jar": "efc92bd7ed32b3e57095e0b3e872051ccfbbdcc980831ef33e89e38161a85222",
         "lwjgl-3.3.2-natives-windows.jar": "ebc65354b64a33659cc642446dc15c6d62a4bd0ae15c9a6a4a3adbcd71f1f690",
-        "runelite-client-1.0.20-SNAPSHOT.jar": "dd85ef2f5666583787b397eebc8a2abce8cc3e2d3d8cd5776f30b22a0fb8957c",
+        "runelite-client-1.0.20-SNAPSHOT.jar": "d2f3f236250fc1a827c5675dbd7e497def0b5e1eece94f1d557619f187f8aaaa",
         "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
         "httpcore5-5.1.3.jar": "f2bf2f2c7772169c9e30699719667ad30f9b46c4e9d7841907deb2d12d9923fe",
         "jnativehook-2.2.2.jar": "2c7904423bc680af02d9ea9557ae233c35199e302d072773a9d0304b568acd41",
@@ -704,9 +704,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/snapshot/runelite-client-1.0.20-SNAPSHOT.jar",
-            "size": 12545947,
+            "size": 12546155,
             "name": "runelite-client-1.0.20-SNAPSHOT.jar",
-            "hash": "dd85ef2f5666583787b397eebc8a2abce8cc3e2d3d8cd5776f30b22a0fb8957c"
+            "hash": "d2f3f236250fc1a827c5675dbd7e497def0b5e1eece94f1d557619f187f8aaaa"
         }
     ]
 }
