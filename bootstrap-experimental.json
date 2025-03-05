@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "d976a627e049e7f5d644af006185ec0d70029094",
+    "buildCommit": "852e001b1272baf586f07a534b6d762c03921f88",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,7 +41,7 @@
         "lwjgl-opengl-3.3.2-natives-windows-arm64.jar": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-        "http-api-1.0.20-EXPERIMENTAL.jar": "e9e1c5372fc39c7c5bf777b467c0b1460e66f0f0d4e7b5bf8629f2c8a9fd7874",
+        "http-api-1.0.20-EXPERIMENTAL.jar": "b6047d836834833a6b89eb8532f866b2a535702fc7b05d7c6870124522defef8",
         "pcollections-3.2.0.jar": "6c1447309cd47560924dbf4939b37756c53b15febc0191ec52d6e0b53b6cc62a",
         "antlr4-runtime-4.9.3.jar": "131a6594969bc4f321d652ea2a33bc0e378ca312685ef87791b2c60b29d01ea5",
         "runelite-api-1.0.20-EXPERIMENTAL.jar": "cc3ba6d52196d3647a8030f2b2d9d83ff7502b6ed5a658c673f0267ed44b5dfd",
@@ -196,7 +196,7 @@
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 95716,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "e9e1c5372fc39c7c5bf777b467c0b1460e66f0f0d4e7b5bf8629f2c8a9fd7874"
+            "hash": "b6047d836834833a6b89eb8532f866b2a535702fc7b05d7c6870124522defef8"
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
