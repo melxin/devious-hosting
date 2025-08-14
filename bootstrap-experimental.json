@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "9609bb53776a8169626d1da0c2bb965e335fff3f",
+    "buildCommit": "6a7d4638634eb50987fe0ddc9e9acf0fa1856058",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -41,10 +41,10 @@
         "lwjgl-opengl-3.3.2-natives-windows-arm64.jar": "f8ab8ceac5a5b3e53f59ef4c717c3d4434cb7fa33969f240489d539f572c33b0",
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
-        "http-api-1.0.20-EXPERIMENTAL.jar": "09ad026224c973935587cedd9f1811d585a83c039c9ea27152ec71359dd0c78c",
+        "http-api-1.0.20-EXPERIMENTAL.jar": "efdbf7f2d811248d70cf3009c31a1dd7029f7427dfb5b82ee66be382110cfaf2",
         "pcollections-3.2.0.jar": "6c1447309cd47560924dbf4939b37756c53b15febc0191ec52d6e0b53b6cc62a",
         "antlr4-runtime-4.9.3.jar": "131a6594969bc4f321d652ea2a33bc0e378ca312685ef87791b2c60b29d01ea5",
-        "runelite-api-1.0.20-EXPERIMENTAL.jar": "1024f42edde706792af6e874fe6443447a6898f893169bbda8109e40f8ed2834",
+        "runelite-api-1.0.20-EXPERIMENTAL.jar": "d15a6b175f5f80aafcc7082c09fc59d6764b4df0feb87c1eb7c928af0f1efdb4",
         "rlawt-1.5.jar": "7cbd7be5f54ed884c6c8668c6b76c69a42d2e6bcdc5161d9e5cb5a29ef058831",
         "pmd-core-7.2.0.jar": "3896a043e28dfcf06e59cdc7760b938eb72fc574bb955b82227b2f9019733e68",
         "flatlaf-extras-3.2.5-rl4.jar": "8ed1c0ecc09bdaf7224e3750bf3fa29266295f902d3ceeaa1380b26c888b761f",
@@ -72,7 +72,7 @@
         "checker-qual-3.8.0.jar": "c88c2e6a5fdaeb9f26fcf879264042de8a9ee9d376e2477838feaabcfa44dda6",
         "lwjgl-opengl-3.3.2-natives-macos-arm64.jar": "3120ecbcccf31f36064f260fa0127b4a359097a294ac5b3e7675d1867168f2e6",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
-        "runelite-client-1.0.20-EXPERIMENTAL.jar": "d3289ef8f5818ffedb0874ea18d46a24eeadc815115efcb4a03b15e0f8615775",
+        "runelite-client-1.0.20-EXPERIMENTAL.jar": "97dc9c3cdd6f8e0a5e729d0aae0604faa056c8f6f1b625f66115a09d4f5e43b3",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
         "autocomplete-3.1.1.jar": "c28575ea4256ce6fce57e820fd467b851c2bd4d816c8c51c24699ef832f91f7d",
@@ -188,15 +188,15 @@
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-api-1.0.20-EXPERIMENTAL.jar",
-            "size": 4800022,
+            "size": 4813044,
             "name": "runelite-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "1024f42edde706792af6e874fe6443447a6898f893169bbda8109e40f8ed2834"
+            "hash": "d15a6b175f5f80aafcc7082c09fc59d6764b4df0feb87c1eb7c928af0f1efdb4"
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/http-api-1.0.20-EXPERIMENTAL.jar",
             "size": 96551,
             "name": "http-api-1.0.20-EXPERIMENTAL.jar",
-            "hash": "09ad026224c973935587cedd9f1811d585a83c039c9ea27152ec71359dd0c78c"
+            "hash": "efdbf7f2d811248d70cf3009c31a1dd7029f7427dfb5b82ee66be382110cfaf2"
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-jshell-1.0.20-EXPERIMENTAL.jar",
@@ -704,9 +704,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/melxin/devious-hosting/master/experimental/runelite-client-1.0.20-EXPERIMENTAL.jar",
-            "size": 11130663,
+            "size": 11130612,
             "name": "runelite-client-1.0.20-EXPERIMENTAL.jar",
-            "hash": "d3289ef8f5818ffedb0874ea18d46a24eeadc815115efcb4a03b15e0f8615775"
+            "hash": "97dc9c3cdd6f8e0a5e729d0aae0604faa056c8f6f1b625f66115a09d4f5e43b3"
         }
     ]
 }
